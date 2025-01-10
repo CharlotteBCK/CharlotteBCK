@@ -1,7 +1,6 @@
 # 👩‍💻 Charlotte BECK
 
 Salut et bienvenue sur mon profil GitHub ! 🌟 Je m'appelle Charlotte, et je suis actuellement en formation à l'Ada Tech School pour devenir développeuse web fullstack. Passionnée par le développement et les nouvelles technologies, j'aime apprendre en continu, relever des défis, et surtout collaborer sur des projets qui ont du sens. 🚀
----
 
 ## 🎯 Objectif
 Je recherche une alternance en développement web à Nantes ou ses environs à partir de juillet 2025 (4 jours en entreprise, 1 jour en école). N’hésitez pas à me contacter pour échanger ! 🙌
