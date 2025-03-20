@@ -11,15 +11,12 @@ Je recherche une alternance en développement web à Nantes ou ses environs à p
 
 ### 🖥️ Front-end :
 - HTML, CSS, JavaScript, TypeScript
-- Frameworks : React, Angular
 
 ### 🛠️ Back-end :
-- PHP, Python, Kotlin
-- MySQL
+- PHP, Python, MySQL, Java
 
-### 📚  FrameWorks:
-- React
-- Angular
+### 📚  FrameWorks et outils :
+- React, Angular, Spring Boot, WordPress
 
 ### 🫶
 
